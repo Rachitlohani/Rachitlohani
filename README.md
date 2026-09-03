@@ -33,7 +33,7 @@ Currently building multiple projects across **AI, enterprise software, and logis
 
 ## Experience I build on
 
-Previous roles across enterprise supply chain, workforce software, developer platforms, and financial software.
+Previous roles across enterprise supply chain, workforce software, developer platforms, financial software, and adtech.
 
 | Company | Previous role & scope |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Previous roles across enterprise supply chain, workforce software, developer pla
 | **Paylocity** | **Chief Technology Officer** — scaled the technology and product organization to **1,500+ people**, with responsibility spanning product, engineering, design, data, security, and IT. |
 | **Atlassian** | **Head of Engineering** — platform capabilities and engineering organization development. |
 | **Intuit** | **Director of Engineering** — knowledge engineering and AI initiatives. |
-| **CoderBuddy** | **Founder** — developer support platform, acquired by Pluralsight. |
+| **Adtech** | **A decade in advertising technology** — AOL, Videology, and other adtech companies. |
 
 [More about my work and career ↗](https://rachitlohani.com/about/)
 
