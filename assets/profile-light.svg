@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="256" viewBox="0 0 960 256" role="img" aria-labelledby="title desc">
+  <title id="title">Rachit Lohani</title>
+  <desc id="desc">Products. Platforms. People. A blue architectural motif on a pale background.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f9fc"/><stop offset="1" stop-color="#eaf1ff"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2368f4"/><stop offset="1" stop-color="#80acff"/></linearGradient>
+    <clipPath id="frame"><rect width="960" height="256" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="256" fill="url(#surface)"/>
+    <g fill="none" stroke="#d7e2f5" stroke-width="1">
+      <path d="M660 0v256M724 0v256M788 0v256M852 0v256M916 0v256M636 32h324M636 96h324M636 160h324M636 224h324"/>
+      <circle cx="807" cy="128" r="108"/>
+    </g>
+    <g transform="translate(731 45)" fill="none" stroke-linejoin="round">
+      <path d="M0 40 72 0l72 40-72 40Z" fill="#e4edff" stroke="#98b8f5" stroke-width="2"/>
+      <path d="m0 80 72-40 72 40-72 40Z" fill="#c8dbff" stroke="#6798f2" stroke-width="2"/>
+      <path d="m0 120 72-40 72 40-72 40Z" fill="url(#accent)" stroke="#2368f4" stroke-width="2"/>
+      <path d="M0 120v16l72 40 72-40v-16l-72 40Z" fill="#1655d9" stroke="#1655d9" stroke-width="2"/>
+      <path d="M72 80v80" stroke="#ffffff" stroke-opacity=".75" stroke-width="2"/>
+    </g>
+    <rect x="40" y="42" width="28" height="4" rx="2" fill="#2368f4"/>
+    <text x="80" y="50" fill="#50617c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="2.2">PRODUCT · TECHNOLOGY · LEADERSHIP</text>
+    <text x="40" y="135" fill="#15233c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2.5">Rachit Lohani</text>
+    <text x="42" y="186" fill="#455b7d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="28" letter-spacing="-.3">Products. Platforms. People.</text>
+    <rect x=".5" y=".5" width="959" height="255" rx="15.5" fill="none" stroke="#dbe4f3"/>
+  </g>
+</svg>
