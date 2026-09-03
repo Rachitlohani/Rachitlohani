@@ -17,10 +17,10 @@ Currently building multiple projects across **AI, enterprise software, and logis
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Qubere</h3>
-      <p><strong>AI for customs & trade operations</strong></p>
-      <p>Connecting document intelligence, customs workflows, compliance, and customer collaboration so teams can move from information to action.</p>
-      <p><a href="https://www.qubere.ai/">Explore Qubere ↗</a></p>
+      <h3>AI & enterprise software</h3>
+      <p><strong>New products in development</strong></p>
+      <p>Building tools that make complex business workflows easier to manage, with a focus on applied AI, document intelligence, and dependable automation.</p>
+      <p><em>More to share as the work develops.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>Freight & logistics</h3>
